@@ -14,7 +14,7 @@ El contenido está estructurado en base a las Pruebas de Progreso evaluables, or
 ### [Prueba de Progreso 1: Predicción de la Calidad del Vino](./P1_Prediccion_Calidad_Vino/)
 - **Paradigma:** Aprendizaje Supervisado.
 - **Descripción:** Desarrollo de modelos analíticos para predecir la calidad de un vino a partir de sus características fisicoquímicas intrínsecas (objetivo numérico o categórico).
-- **Componentes:** Preprocesamiento unificado de conjuntos de datos de vino rojo y blanco, análisis exploratorio y justificación matemática rigurosa mediante cuadernos jupyter notebooks.
+- **Componentes:** Preprocesamiento unificado de conjuntos de datos de vino rojo y blanco, análisis exploratorio y justificación matemática rigurosa mediante *Jupyter Notebooks*.
 
 ### [Prueba de Progreso 2: Clustering de Datos de Tráfico](./P2_Clustering/)
 - **Paradigma:** Aprendizaje No Supervisado.
